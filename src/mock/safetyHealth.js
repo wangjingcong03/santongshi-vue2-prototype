@@ -1,0 +1,12 @@
+export const safetyProjects = [
+  { id: 1, project: '中冶新材料一期项目', evaluationUnit: '河北安科工程技术有限公司', evaluationDate: '2017-10-02', designUnit: '中国恩菲工程技术有限公司', designDate: '2017-12-02', acceptanceUnit: '河北安隆安全评价咨询有限公司', acceptanceDate: '2019-09-24', emergencyStart: '2019-03-12', emergencyEnd: '2022-03-12', safetyStart: '/', safetyEnd: '/', hazardousStart: '2019-03-14', hazardousEnd: '2022-03-14' },
+  { id: 2, project: '副产物无害化处理项目', evaluationUnit: '河北润忆安全技术服务有限公司', evaluationDate: '2020-12-01', designUnit: '唐山陶瓷集团设计研究有限公司', designDate: '2021-09-04', acceptanceUnit: '河北英博认证有限公司', acceptanceDate: '2024-07-01', emergencyStart: '2021-12-01', emergencyEnd: '2024-07-01', safetyStart: '/', safetyEnd: '/', hazardousStart: '2022-01-01', hazardousEnd: '2024-07-01' },
+  { id: 3, project: '废旧动力电池循环利用示范生产线建设项目', evaluationUnit: '河北润忆安全技术服务有限公司', evaluationDate: '2022-01-01', designUnit: '中国恩菲工程技术有限公司', designDate: '2022-05-01', acceptanceUnit: '河北英博认证有限公司', acceptanceDate: '2025-02-01', emergencyStart: '2024-12-01', emergencyEnd: '2027-06-01', safetyStart: '/', safetyEnd: '/', hazardousStart: '2025-01-01', hazardousEnd: '2027-08-01' },
+  { id: 4, project: '中冶新材料项目二期', evaluationUnit: '河北润忆安全技术服务有限公司', evaluationDate: '2024-07-01', designUnit: '中国恩菲工程技术有限公司', designDate: '2024-12-01', acceptanceUnit: '河北英博认证有限公司', acceptanceDate: '', emergencyStart: '2026-05-01', emergencyEnd: '2029-01-01', safetyStart: '2026-01-01', safetyEnd: '2029-01-01', hazardousStart: '/', hazardousEnd: '/' }
+]
+export const healthProjects = [
+  { id: 1, project: '中冶新材料项目', preUnit: '河北安华质检技术服务有限公司', preDate: '2017-10-02', designUnit: '中国恩菲工程技术有限公司', designDate: '2017-12-02', controlUnit: '河北宝隆检验检测技术有限公司', controlDate: '2019-11-28', filingDate: '2019-11-28', siteStart: '2019-11-28', siteEnd: '2020-12-29' },
+  { id: 2, project: '副产物无害化处理项目', preUnit: '唐山为民职业环境检测有限责任公司', preDate: '2021-01-01', designUnit: '唐山为民职业环境检测有限责任公司', designDate: '2021-01-01', controlUnit: '', controlDate: '', filingDate: '', siteStart: '2021-01-01', siteEnd: '2022-01-01' },
+  { id: 3, project: '废旧动力电池循环利用示范生产线建设项目', preUnit: '唐山为民职业环境检测有限责任公司', preDate: '2021-06-01', designUnit: '中国恩菲工程技术有限公司', designDate: '2022-01-01', controlUnit: '唐山为民职业环境检测有限责任公司', controlDate: '2026-05-01', filingDate: '2026-08-01', siteStart: '2022-01-01', siteEnd: '2023-01-01' },
+  { id: 4, project: '中冶新材料项目二期', preUnit: '唐山为民职业环境检测有限责任公司', preDate: '2024-12-01', designUnit: '唐山为民职业环境检测有限责任公司', designDate: '2024-08-01', controlUnit: '', controlDate: '', filingDate: '', siteStart: '2024-01-01', siteEnd: '2025-01-01' }
+]
